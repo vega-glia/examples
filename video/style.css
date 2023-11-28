@@ -31,6 +31,8 @@ video {
   left: 20px;
   bottom: 50px;
   background: transparent;
+  text-shadow: 2px 2px #ffffff;
+  text-color: #000000
 }
 
 .video-options {
