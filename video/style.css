@@ -30,6 +30,7 @@ video {
   position: absolute;
   left: 20px;
   top: 50px;
+  background: transparent;
 }
 
 .video-options {
