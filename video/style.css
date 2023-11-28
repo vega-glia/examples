@@ -32,7 +32,7 @@ video {
   bottom: 50px;
   background: transparent;
   text-shadow: 2px 2px #808080;
-  text-color: #000000;
+  color: #ffffff;
 }
 
 .video-options {
