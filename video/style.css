@@ -26,6 +26,12 @@ video {
   background: rgba(0,0,0,0.2);
 }
 
+.texto {
+  position: absolute;
+  left: 20px;
+  top: 50px;
+}
+
 .video-options {
   position: absolute;
   left: 20px;
