@@ -29,7 +29,7 @@ video {
 .texto {
   position: absolute;
   left: 20px;
-  top: 50px;
+  bottom: 50px;
   background: transparent;
 }
 
