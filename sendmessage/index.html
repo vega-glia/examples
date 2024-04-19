@@ -1,6 +1,14 @@
 <html>
   <head>
-    <title>Enviar Mensaje </title>
+   <script>
+    function myRequest() {
+
+      alert("Enviado!");
+          
+     }
+
+   </script>
+    <title>Contacto </title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <style>
       * {
@@ -125,7 +133,7 @@
     </style>
   </head>
   <body>
-    <form action="/" class="decor">
+    <form action="" target="_self" class="decor">
       <div class="form-left-decoration"></div>
       <div class="form-right-decoration"></div>
       <div class="circle"></div>
@@ -137,8 +145,7 @@
         <input type="text" id='id1' placeholder="Numero ">
         <textarea id="textarea1" name="textmensaje" rows="4" cols="50" placeholder="texto">
         </textarea>
-        <div><label id='id2'></label></div>
-        <button >Enviar</button>
+        <button onclick="myRequest()"> Enviar</button>
       </div>
     </form>
   </body>
